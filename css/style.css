@@ -978,3 +978,283 @@ header {
 .footer-section .container .row .caption-privacy {
   margin-right: 60px;
 }
+
+
+
+/* Responsive */
+@media (max-width: 575.98px){
+  header {
+    height: 570px;
+  }
+  .nav-btn {
+    display: none;
+}
+.banner-overlay {
+  height: 87%;
+}
+.banner-texts h1 {
+  font-size: 36px;
+  line-height: 57px;
+}
+.banner-texts p {
+  font-size: 14px;
+  line-height: 28px;
+   width: auto;
+}
+.banner-texts {
+  padding-top: 70px;
+  padding-bottom: 254px;
+}
+.buttons .get-btn {
+   padding: 10px 20px;
+   font-size: 14px;
+}
+.buttons .get-btn:hover {
+   padding: 10px 20px;
+   font-size: 14px;
+}
+.buttons .learn-btn {
+  padding: 10px 20px;
+   font-size: 14px;
+}
+.buttons .learn-btn:hover {
+  padding: 10px 20px;
+   font-size: 14px;
+}
+
+/* Achievement Responsive */
+.achievement {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.container .row .col-lg-3 h2 {
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+
+.container .row .col-lg-3 p {
+  font-size: 14px;
+}
+.container .row .col-lg-3 {
+  margin-bottom: 20px;
+}
+
+
+
+.choose {
+  padding:0;
+  
+}
+.choose-images {
+display: none;
+}
+.choose-image-2 {
+  display: none;
+}
+
+.choose-right-text {
+  padding-bottom: 50px;
+}
+.services .row .do-details a {
+  margin-bottom: 60px;
+}
+.services {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.services .row .cards {
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.down-cards {
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+
+
+.impact .container .row .title h2 {
+  font-size: 40px;
+  padding-top: 50px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.impact .container .row .title p {
+  font-size: 16px;
+  width: 352px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  margin-left: 30px;
+}
+.impact .container .row .competitive h3, .strategy h3 {
+  width: 320px;
+  font-size: 24px;
+}
+.impact .container .row .competitive p, .strategy p {
+  font-size: 16px;
+  width: 313px;
+  margin: 0 auto;
+}
+.impact .container .row .impact-images .impact-background {
+  display: none;
+}
+
+.impact .container .row .impact-images  {
+  padding-left: 40px;
+  margin: 0 auto;
+}
+.impact .container .row .impact-images .boat {
+  top: 270px;
+  right: 73px;
+}
+.impact .container .row .impact-images .sky {
+  position: absolute;
+  bottom: -415px;
+  right: -5px;
+}
+.impact .container .row .impact-images .dots {
+  display: none;
+}
+.services .row .do-details a {
+  font-size: 16px;
+}
+.services .row .do-details h2 {
+  font-size: 40px;
+  margin-left: 30px;
+}
+.services .row .do-details p {
+  margin-bottom: 30px;
+}
+.services .row .cards h3 {
+  font-size: 24px;
+}
+.services .row .cards p {
+  font-size: 16px;
+}
+.services .row .cards .services-btn a {
+  font-size: 16px;
+  padding: 14px 24px;
+}
+
+.plan {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  
+  margin-top: 400px;
+}
+.plan .row .title {
+  font-size: 40px;
+}
+  .about-details {
+    padding: 50px 10px 50px 10px;
+    height: 475px;
+    width: 310px;
+}
+.about h2 {
+  font-size: 40px;
+}
+
+.about-details .fa-angle-left {
+  left: -50px;
+}
+.about-details .fa-angle-right {
+  right: -50px;
+} 
+.about-details p {
+  font-size: 18px;
+}
+.round-image {
+  top: -120px;
+  left: 20px;
+}
+
+.blog .container .row h2 {
+  font-size: 36px;
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 30px;
+}
+.blog .container {
+  padding-top: 0px;
+  padding-bottom: 50px;
+}
+.blog .container .blog-details .author {
+  margin-left: 30px;
+}
+.blog .container .col-lg-4 .grey-box {
+  margin-left: 15px;
+}
+.blog .container .blog-details .author p {
+  font-size: 14px;
+}
+.blog .container .blog-details h4 {
+  font-size: 20px;
+  margin: 0 auto;
+  width: 400px;
+  text-align: left;
+  line-height: 160%;
+  margin-left: 30px;
+}
+.blog .row .blog-details .blog-btn a {
+  margin-left: 0px;
+}
+.footer-section .container .row .col-lg-5 p {
+  width: 387px;
+}
+.footer-section .container .row .caption-left {
+  margin-right: 0px;
+}
+.blog .container .background {
+  display: none;
+}
+.achievement .achieve-line-1{
+  display: none;
+}
+.achievement .achieve-line-2{
+  display: none;
+}
+.achievement .achieve-line-3{
+  display: none;
+}
+.choose-list {
+  padding-left: 20px;
+}
+.choose .choose-list .choose-text p {
+  font-size: 14px;
+  width: 285px;
+}
+.choose-right-text h2 {
+  font-size: 36px;
+  margin-left: 70px;
+}
+.choose-right-text p {
+  margin-left: 30px;
+}
+.choose-right-text a {
+  margin-left: 30px;
+  font-size: 16px;
+}
+
+
+.footer-section{
+  padding: 10px;
+}
+.footer-section ul {
+  padding: 0;
+}
+.footer-section .container .row .footer-list-items {
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+.footer-section .container .row ul li {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+.footer-section .container .row .caption-privacy {
+  margin-right: 0px;
+  margin-left: 0;
+}
+.footer-section .container .row .caption {
+  font-size: 13px;
+}
+}
